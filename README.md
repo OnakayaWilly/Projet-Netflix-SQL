@@ -8,4 +8,4 @@
 - Répondre à des questions métiers concrètes en utilisant des jointures, agrégations et filtres SQL.
 
 # Dataset 
- - ** Dataset Link:** [Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+ - **Dataset Link:** [Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
